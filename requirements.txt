@@ -2,3 +2,4 @@
 dm-env
 numpy
 seaborn
+nbimporter
